@@ -1,0 +1,11 @@
+.colored {
+  background: #27B3C2;
+  padding-right: 1rem;
+  padding-left: 1rem;
+  color: #fff;
+  padding-top: 0.4rem;
+  padding-bottom: 0.4rem;
+  display: flex;
+  gap: 2rem;
+  align-items: center;
+}

@@ -1,0 +1,60 @@
+.card {
+  background-color: #0e1e29;
+  background-image: url("../assets/lineMobile.png");
+  background-size: cover; /* Makes the image cover the entire card */
+  background-position: center;
+  margin-left: auto;
+  margin-right: auto;
+
+  color: #fff;
+  text-align: center;
+  padding: 2rem;
+}
+
+.subcribeTitle {
+  max-width: 689px;
+  margin: 0 auto;
+
+  font-family: "PT Serif";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 34px;
+  /* line-height: 58px; */
+
+  letter-spacing: 0.01em;
+
+  /* Neutral/100 */
+  color: #f3f3f4;
+}
+
+.subcribeText {
+  /* Stay informed with the latest updates, expert tips, and success stories from Northenby Investments . */
+
+  max-width: 563px;
+  margin: 0 auto;
+
+  font-family: "Helvetica";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 36px;
+
+  letter-spacing: 0.01em;
+
+  /* Neutral/50 */
+  color: #fbfbfc;
+}
+
+.content {
+  /* position: absolute;
+  top: 50%;
+  left: 0;
+  right: 0;
+  transform: translateY(-50%); */
+}
+
+@media screen and (min-width: 764px) {
+  .card {
+    background-image: url("../assets/line.png");
+  }
+}
