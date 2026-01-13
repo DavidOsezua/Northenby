@@ -44,7 +44,7 @@ const Team = () => {
             <img src={member2} />
 
             <p className={`${styles.name}`}>
-              Peter Michael Jarvis (Financial Adviser)
+              Matthew James Webber
             </p>
 
             <div>
@@ -70,7 +70,7 @@ const Team = () => {
           >
             <img src={member1} />
 
-            <p className={`${styles.name}`}>Maria Davidson</p>
+            <p className={`${styles.name}`}>Harbinder Badesha</p>
 
             <div>
               <p>Secretary</p>
