@@ -49,12 +49,12 @@ const Footer = () => {
 
             <div>
               <p className="text-[1rem] font-bold">Email:</p>
-              <p className="text-[0.9rem]">management@northenby.com</p>
+              <p className="text-[0.9rem]"> accounts@northeby.uk</p>
             </div>
 
             <div>
               <p className="text-[1rem] font-bold">Call Us:</p>
-              <p className="text-[0.9rem]">0203 576 6918 </p>
+              <p className="text-[0.9rem]">0203 576 7440 </p>
             </div>
           </div>
         </div>

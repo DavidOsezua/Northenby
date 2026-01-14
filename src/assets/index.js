@@ -1,4 +1,4 @@
-import ourServices from "./ourSevices.webp";
+import ourServices from "./ourSevices.png";
 import aboutus from "./aboutus.webp";
 import image1 from "./image1.webp";
 import image2 from "./image2.webp";

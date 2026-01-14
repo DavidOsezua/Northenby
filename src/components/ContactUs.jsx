@@ -21,7 +21,7 @@ const ContactUs = () => {
 
           <div className="">
             <p className="font-bold pb-[0.5rem]">Phone Number</p>
-            <p className="text-[0.9rem]">0203 576 6918 </p>
+            <p className="text-[0.9rem]"> 0203 576 7440 </p>
           </div>
         </div>
         <div className="flex gap-3 items-center">
@@ -29,7 +29,7 @@ const ContactUs = () => {
 
           <div>
             <p className="font-bold pb-[0.5rem]">Email</p>
-            <p className="text-[0.8rem]">management@northenby.com</p>
+            <p className="text-[0.8rem]"> accounts@northeby.uk</p>
           </div>
         </div>
         <div className="flex gap-3 items-center">

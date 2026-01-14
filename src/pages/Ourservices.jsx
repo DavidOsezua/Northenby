@@ -49,15 +49,17 @@ const Ourservices = () => {
             </span>
 
             <h2 className={`bigText`}>
-              Expert Legal Solutions for Recovering Your Lost Investments
+              Expert Asset Tracing to Help Recover Lost Investments
             </h2>
 
             <p className="mdText">
-              At Northenby Investments , we help individuals and businesses
-              recover funds lost to fraud, scams, and mismanagement. Our expert
-              legal team uses effective strategies to track, reclaim, and secure
-              your assets, offering full support to resolve financial disputes
-              and restore peace of mind.
+              At Northenby Investments, we support individuals and businesses in
+              identifying and tracing funds lost through fraud, scams, and
+              financial misconduct. Our specialists use structured asset-tracing
+              methods to follow the movement of funds, uncover where assets may
+              be held, and support appropriate recovery actions. Throughout the
+              process, we provide clear guidance and ongoing support to help you
+              move forward with confidence
             </p>
           </motion.div>
         </div>

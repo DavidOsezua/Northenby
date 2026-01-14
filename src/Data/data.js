@@ -36,15 +36,15 @@ export const services = [
   {
     ID: crypto.randomUUID(),
     image: image2,
-    title: "Trading Scams",
-    text: "We assist victims of fraudulent trading platforms and brokers by investigating scams, collecting evidence, and pursuing legal action. Our goal is to recover lost funds and hold fraudulent entities accountable.",
+    title: "Bond Investment Losses (Retail / Mini-Bond Focused)",
+    text: "If you’ve lost money through retail bond or mini-bond investments, often involving mis-selling or issuer failure, we help assess documentation, review transaction history, and clarify investor entitlements. Our support is designed to help clients understand their position and pursue suitable recovery or complaint pathways.",
   },
 
   {
     ID: crypto.randomUUID(),
     image: image5,
-    title: "Revolut and Chase Bank Refunds",
-    text: "For clients affected by scams or Unauthorised transactions with Revolut or Chase Bank, we facilitate the refund process. Our team works with banks and authorities to recover lost funds swiftly and efficiently.",
+    title: "Gold Investment Losses",
+    text: "If you’ve suffered losses related to gold investments due to fraud, misrepresentation, or custody issues, we can help support the recovery process. Our team assists by tracing transactions, verifying ownership records, and identifying where physical or paper gold assets may be held. By working through established recovery channels and relevant counterparties, we help clients pursue appropriate steps toward resolving disputes and protecting their interests in the precious metals market.",
   },
   {
     ID: crypto.randomUUID(),

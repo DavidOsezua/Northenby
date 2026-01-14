@@ -22,8 +22,8 @@ const HomeHero = () => {
             viewport={{ once: true, amount: 0.25 }}
           >
             <h2 className={`bigText`}>
-              Restoring Balance, <br />
-              One Financial Step <br /> at a Time.
+              Your Partner in , <br />
+              Financial Recovery
             </h2>
 
             <p className={`mdText ${styles.mdText}`}>
