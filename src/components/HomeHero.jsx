@@ -21,9 +21,8 @@ const HomeHero = () => {
             whileInView="visible"
             viewport={{ once: true, amount: 0.25 }}
           >
-            <h2 className={`bigText`}>
-              Your Partner in , <br />
-              Financial Recovery
+            <h2 className={`font-bold text-xl md:text-5xl md:max-w-[715px]`}>
+              Your Partner in Financial Recovery
             </h2>
 
             <p className={`mdText ${styles.mdText}`}>
