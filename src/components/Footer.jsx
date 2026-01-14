@@ -12,7 +12,7 @@ const Footer = () => {
       <div className={`sectionContainer ${styles.footerContainer}`}>
         <div className={`${styles.firstCol}`}>
           <div className={styles.navLogo}>
-            <img src={logo} className="w-[120px] md:w-[180px]" />
+            <img src={logo} className="w-[180px] md:w-[300px]" />
           </div>
 
           <p className="text-[0.8rem] leading-5">
@@ -96,7 +96,7 @@ const Footer = () => {
         </div>
       </div>
       <hr className="w-full" />
-      <p className="text-[0.7rem] text-center pt-[1rem]">
+      <p className="text-[0.7rem] text-center py-[1rem]">
         Northenby Investments
         <span className="text-[#ABABAB]"> © 2026. All Rights Reserved.</span>
       </p>

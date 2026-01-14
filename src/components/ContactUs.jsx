@@ -38,7 +38,8 @@ const ContactUs = () => {
           <div>
             <p className="font-bold pb-[0.5rem]">Location</p>
             <p className="text-[0.8rem]">
-              536 Etruria Road, Newcastle, Staffordshire, ST5 0SX
+              1st Floor, Boundary House, 91-93 Charterhouse Street, London,
+              London, United Kingdom, EC1M 6HR
             </p>
           </div>
         </div>

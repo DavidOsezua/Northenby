@@ -1,6 +1,7 @@
 .navbar {
   display: flex;
   justify-content: center;
+  align-items: center;
   height: 100px;
   width: 100%;
   background-color: #f8f8f8;
@@ -16,10 +17,6 @@
   /* box-shadow: ; */
 }
 
-
-
-
-
 .navContainer {
   display: flex;
   justify-content: space-between;
@@ -29,9 +26,9 @@
   margin: 0 auto;
 }
 
-.navLogo > * + * {
+/* .navLogo > * + * {
   padding-left: 8px;
-}
+} */
 .navLogo {
   display: flex;
   justify-content: center;
@@ -54,6 +51,10 @@
 }
 
 @media screen and (max-width: 913px) {
+  .navbar {
+    height: 64px;
+  }
+
   .navMenu {
     z-index: 10;
     position: fixed;
@@ -71,7 +72,7 @@
 
   .toggle {
     position: absolute;
-    top: 40%;
+    top: 30%;
     bottom: 50%;
     right: 5%;
     cursor: pointer;

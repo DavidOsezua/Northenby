@@ -41,7 +41,7 @@ const Team = () => {
             whileInView="visible"
             viewport={{ once: true, amount: 0.25 }}
           >
-            <img src={member2} />
+            {/* <img src={member2} /> */}
 
             <p className={`${styles.name}`}>
               Matthew James Webber
@@ -68,7 +68,7 @@ const Team = () => {
             whileInView="visible"
             viewport={{ once: true, amount: 0.25 }}
           >
-            <img src={member1} />
+            {/* <img src={member1} /> */}
 
             <p className={`${styles.name}`}>Harbinder Badesha</p>
 

@@ -19,7 +19,7 @@ const Navbar = () => {
         {/*************  NavLogo ******************/}
         <NavLink to="/">
           <div className={styles.navLogo}>
-            <img src={logo} className="w-[120px] md:w-[180px]" />
+            <img src={logo} className="w-[180px] md:w-[300px]" />
           </div>
         </NavLink>
 
