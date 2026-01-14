@@ -29,7 +29,7 @@ const ContactUs = () => {
 
           <div>
             <p className="font-bold pb-[0.5rem]">Email</p>
-            <p className="text-[0.8rem]"> accounts@northeby.uk</p>
+            <p className="text-[0.8rem]"> accounts@northenby.uk</p>
           </div>
         </div>
         <div className="flex gap-3 items-center">

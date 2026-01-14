@@ -49,7 +49,7 @@ const Footer = () => {
 
             <div>
               <p className="text-[1rem] font-bold">Email:</p>
-              <p className="text-[0.9rem]"> accounts@northeby.uk</p>
+              <p className="text-[0.9rem]"> accounts@northenby.uk</p>
             </div>
 
             <div>
