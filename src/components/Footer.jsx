@@ -30,9 +30,9 @@ const Footer = () => {
             financial investments or advisory services.
           </p>
 
-          <p className="text-[0.6rem] leading-4">
+          {/* <p className="text-[0.6rem] leading-4">
             * May not initially apply to cryptocurrency cases.
-          </p>
+          </p> */}
         </div>
 
         <div className={`${styles.secondCol}`}>
