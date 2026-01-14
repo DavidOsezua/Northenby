@@ -7,7 +7,7 @@ const SvgComponent = (props) => (
     fill="none"
     {...props}
   >
-    <rect width={100} height={100} fill="#27B3C2" fillOpacity={0.5} rx={3} />
+    <rect width={100} height={100} fill="#FEC18180" fillOpacity={0.5} rx={3} />
     <mask
       id="a"
       width={44}
