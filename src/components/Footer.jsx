@@ -63,13 +63,12 @@ const Footer = () => {
           <p className="pb-[1.5rem] font-bold">Our Services</p>
           <div className={`${styles.thirdCol} `}>
             <ul className="text-[0.9rem]">
-              <li>Trading Scams</li>
-              <li>Unregulated Collective Investment Scheme Settlements</li>
-              <li>Cryptocurrency Trading Losses</li>
-              <li>Regulated Broker Recovery</li>
-              <li>Revolut and Chase Bank Refunds</li>
-              <li>NFT Scams & Investment Tracing</li>
-              <li>Forex Trading Scams</li>
+              <li>Cryptocurrency Trading Losses </li>
+              <li>Ledger & Trezor Wallet Losses</li>
+              <li>NFT & Investment Tracing</li>
+              <li>Untreated Collective Investment Scheme Settlements </li>
+              <li>Forex Scams </li>
+              <li>Gold Investment Losses</li>
             </ul>
             {/* <ul className="text-[0.9rem]">
               <li>Tracing Services</li>

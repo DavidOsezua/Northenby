@@ -33,7 +33,7 @@ const OurCompany = () => {
             whileInView="visible"
             viewport={{ once: true, amount: 0.25 }}
           >
-            Northenby Investments is a trusted Newcastle, London-based firm
+            Northenby Investments is a trusted London-based firm
             specializing in investment fraud recovery. Our team of legal experts
             and fraud lawyers is dedicated to helping clients recover money lost
             through online trading and investments.

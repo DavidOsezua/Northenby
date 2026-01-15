@@ -15,7 +15,7 @@ import image12 from "./image12.webp";
 import member1 from "./member1.webp";
 import member2 from "./member2.webp";
 import overview from "./overview.webp";
-import home from "./home.png";
+import home from "./home.webp";
 import lawSociety from "./lawSociety.png";
 import theTimes from "./theTimes.png";
 import cheshire from "./cheshire.png";

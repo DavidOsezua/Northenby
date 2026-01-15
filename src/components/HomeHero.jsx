@@ -49,7 +49,7 @@ const HomeHero = () => {
             whileInView="visible"
             viewport={{ once: true, amount: 0.25 }}
           >
-            <ReactPlayer
+            {/* <ReactPlayer
               src="/northenby.mp4"
               playing={true}
               loop={true}
@@ -57,7 +57,8 @@ const HomeHero = () => {
               muted
               width="100%"
               height="100%"
-            />
+            /> */}
+            <img  src={home} />
           </motion.div>
         </div>
       </div>

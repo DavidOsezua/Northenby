@@ -61,7 +61,7 @@ export const services = [
   {
     ID: crypto.randomUUID(),
     image: image8,
-    title: "Regulated Broker Recovery",
-    text: "Even regulated brokers can engage in fraudulent practices. We assist in recovering funds lost to regulated brokers by gathering evidence and filing claims with financial authorities to ensure your investments are returned.",
+    title: "Ledger & Trezor Wallet Losses",
+    text: "If you’ve lost cryptocurrency held in a Ledger or Trezor hardware wallet due to social engineering scams or compromised devices, we provide support through detailed transaction analysis and asset tracing. Our team helps identify how funds were transferred, track wallet movements on the blockchain, and assess whether recovery or reporting pathways may be available. We work with clients to provide clarity, guidance, and informed next steps following cold-storage related losses.",
   },
 ];
